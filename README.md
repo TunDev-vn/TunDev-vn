@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Tung 👋 
 
 <img align="right" alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/code.gif?raw=true" width="800" height="600" />
 
