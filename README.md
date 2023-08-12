@@ -20,3 +20,5 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TunDev-vn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="TunDev" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TunDev-vn&theme=gotham)](https://git.io/streak-stats)
