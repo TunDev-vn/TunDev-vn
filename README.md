@@ -1,3 +1,5 @@
+<img align="center" alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/Introducion-1.gif?raw=true" width="auto" />
+
 ## Hi there, nice to meet you 👋 
 I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the university 🏫.I love to explore and learn about new things.
 
