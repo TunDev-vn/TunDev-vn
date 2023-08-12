@@ -13,4 +13,4 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 
 ### 🔥 &nbsp; My Stats
 
-![TunDev-vn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TunDev-vn&theme=gotham&hide_border=false)
+<p align="center"></p> ![TunDev-vn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TunDev-vn&theme=gotham&hide_border=false)
