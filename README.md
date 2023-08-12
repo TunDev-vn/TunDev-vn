@@ -3,7 +3,7 @@
 ## Hi there, nice to meet you 👋 
 I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the university 🏫.I love to explore and learn about new things.
 
-<img align="right" alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/code.gif?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/code.gif?raw=true" width="450" height="300" />
 
 - 💼 any freelance work? do reach, [email](mailto:dev.hoangtung@gmail.com)
 - 💬 ask me about anything, I am happy to help
