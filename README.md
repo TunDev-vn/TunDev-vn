@@ -6,7 +6,7 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 - 💼 any freelance work? do reach, [email](mailto:dev.hoangtung@gmail.com)
 - 💬 ask me about anything, I am happy to help
 
-**Skills and tools:**  
+### 🛠 &nbsp;Languages and Tools
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -17,8 +17,6 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-📈 my github stats
+### 🔥 &nbsp; My Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TunDev-vn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="TunDev" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TunDev-vn&theme=gotham)](https://git.io/streak-stats)
+<p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TunDev-vn&theme=gotham)](https://git.io/streak-stats)
