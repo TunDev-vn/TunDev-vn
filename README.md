@@ -17,4 +17,4 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 
 <br/><br/><br/><br/><br/>
 
-<img align="center" alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/robot.gif?raw=true" width="200" />
+<p align="center"> <img alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/robot.gif?raw=true" width="150" />
