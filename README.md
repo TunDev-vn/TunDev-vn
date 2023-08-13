@@ -14,3 +14,7 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,heroku,netlify,github,git" />
   </a>
+
+<br/><br/><br/><br/><br/>
+
+<img align="center" alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/robot.gif?raw=true" width="200" />
