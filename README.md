@@ -21,6 +21,13 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,javascript,css,wordpress,pr,express,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,html,vscode,heroku,figma" />
+
+  </a>
+
 <br/><br/><br/><br/><br/><br/>
 
 <picture>
