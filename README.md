@@ -15,9 +15,8 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,heroku,netlify,github,git" />
   </a>
 
-<br/><br/><br/><br/><br/>
-
-<p align="center"> <img alt="GIF" src="https://github.com/TunDev-vn/TunDev-vn/blob/main/computer.gif?raw=true" width="250" />
+<br/><br/>
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TunDev-vn/TunDev-vn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TunDev-vn/TunDev-vn/output/github-contribution-grid-snake.svg">
