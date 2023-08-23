@@ -11,8 +11,10 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 ## 🛠 &nbsp;Languages and Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,heroku,netlify,github,git" />
+<!--     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" /><br> -->
+<!--     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,heroku,netlify,github,git" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,github,git" />
   </a>
 
 
