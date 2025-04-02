@@ -7,15 +7,14 @@ I'm [Tung](https://tundev.id.vn/), I come from Vietnam and I'm studying at the u
 
 - 💼 any freelance work? do reach, [email](mailto:dev.hoangtung@gmail.com)
 - 💬 ask me about anything, I am happy to help
-
+<!--
 ## 🛠 &nbsp;Languages and Tools
 
   <a href="https://skillicons.dev">
-<!--     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" /><br> -->
-<!--     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,heroku,netlify,github,git" /> -->
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,java,spring" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,netlify,github,git,docker,kubernetes,aws" />
   </a>
+-->
 
 
 <p align="center">
